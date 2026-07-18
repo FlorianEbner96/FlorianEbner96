@@ -16,11 +16,11 @@ I work at the intersection of **computational science and finance** — building
 
 Currently building in public and working toward roles in **AI drug discovery** and **quantitative finance**.
 
-## 🔭 Currently Working On
+## Currently Working On
 
 **RAG-powered AI Drug Discovery** — a retrieval-augmented generation pipeline over biomedical literature (PubMed) to surface and reason about drug–target relationships, combining ML with domain knowledge from the bioinformatics side.
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -33,27 +33,18 @@ Currently building in public and working toward roles in **AI drug discovery** a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - **Machine Learning for Finance** — time series forecasting, risk modeling, factor models
 - **Deep Learning** — CNNs, RNNs, Transformers
 - **AI for Drug Discovery** — molecular representation, predictive modeling on biological data
 - **Quantitative Analysis** — statistical modeling & algorithmic strategies
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[Quant-Portfolio](https://github.com/FlorianEbner96/Quant-Portfolio)** — Monte Carlo VaR, portfolio optimization, and a 10-notebook quant finance reference (Basel III risk, factor models, backtesting).
 - **[factor-risk-model](https://github.com/FlorianEbner96/factor-risk-model)** — A Barra-style fundamental factor risk model built from scratch in Python: factor construction, covariance estimation, risk decomposition, and a cost-aware backtest.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlorianEbner96&show_icons=true&theme=default" alt="Florian's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlorianEbner96&theme=default" alt="Florian's GitHub streak" />
-</p>
 
 ## 📫 Connect
 
