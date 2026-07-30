@@ -12,7 +12,7 @@
 
 M.Sc. Bioinformatics from **Goethe University Frankfurt**, with a strong interest in Data Science, Machine Learning, and the mathematics behind them.
 
-I work at the intersection of **computational science and finance** — building projects from scratch to understand how models really work, from factor risk models to portfolio optimization.
+I work at the intersection of **computational science, AI drug discovery and quantitative finance** — building projects from scratch to understand how models really work, from a RAG that assists you with scientific research to factor risk models and portfolio optimization.
 
 Currently building in public and working toward roles in **AI drug discovery** and **quantitative finance**.
 
@@ -35,13 +35,14 @@ Currently building in public and working toward roles in **AI drug discovery** a
 
 ## Currently Learning
 
-- **Machine Learning for Finance** — time series forecasting, risk modeling, factor models
 - **Deep Learning** — CNNs, RNNs, Transformers
 - **AI for Drug Discovery** — molecular representation, predictive modeling on biological data
+- **Machine Learning for Finance** — time series forecasting, risk modeling, factor models
 - **Quantitative Analysis** — statistical modeling & algorithmic strategies
 
 ## Featured Projects
 
+- **[RAG-powered AI Drug Discovery]([https://github.com/FlorianEbner96/Quant-Portfolio](https://github.com/FlorianEbner96/biorag))** — Retrieval-augmented QA over PubMed literature on allosteric kinase inhibitors — hybrid retrieval, verified citations, and an offline evaluation harness..
 - **[Quant-Portfolio](https://github.com/FlorianEbner96/Quant-Portfolio)** — Monte Carlo VaR, portfolio optimization, and a 10-notebook quant finance reference (Basel III risk, factor models, backtesting).
 - **[factor-risk-model](https://github.com/FlorianEbner96/factor-risk-model)** — A Barra-style fundamental factor risk model built from scratch in Python: factor construction, covariance estimation, risk decomposition, and a cost-aware backtest.
 
