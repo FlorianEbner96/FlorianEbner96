@@ -42,8 +42,8 @@ Currently building in public and working toward roles in **AI drug discovery** a
 
 ## Featured Projects
 
-- **[RAG-powered AI Drug Discovery]([https://github.com/FlorianEbner96/Quant-Portfolio](https://github.com/FlorianEbner96/biorag)** — Retrieval-augmented QA over PubMed literature on allosteric kinase inhibitors — hybrid retrieval, verified citations, and an offline evaluation harness..
-- **[123Quant-Portfolio](https://github.com/FlorianEbner96/Quant-Portfolio)** — Monte Carlo VaR, portfolio optimization, and a 10-notebook quant finance reference (Basel III risk, factor models, backtesting).
+- **[RAG-powered AI Drug Discovery](https://github.com/FlorianEbner96/biorag)** — Retrieval-augmented QA over PubMed literature on allosteric kinase inhibitors — hybrid retrieval, verified citations, and an offline evaluation harness.
+- **[Quant-Portfolio](https://github.com/FlorianEbner96/Quant-Portfolio)** — Monte Carlo VaR, portfolio optimization, and a 10-notebook quant finance reference (Basel III risk, factor models, backtesting).
 - **[factor-risk-model](https://github.com/FlorianEbner96/factor-risk-model)** — A Barra-style fundamental factor risk model built from scratch in Python: factor construction, covariance estimation, risk decomposition, and a cost-aware backtest.
 
 
